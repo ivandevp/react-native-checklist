@@ -22,3 +22,13 @@
 
 
 - [Learn ES2015](https://babeljs.io/learn-es2015/)
+- [Redux](https://redux.js.org/)
+
+
+## The Basics
+
+- [Components & JSX](https://facebook.github.io/react-native/docs/tutorial.html)
+- [Props](https://facebook.github.io/react-native/docs/props.html)
+- [State](https://facebook.github.io/react-native/docs/state.html)
+  * [setState()](https://reactjs.org/docs/react-component.html#setstate)
+- [Style](https://facebook.github.io/react-native/docs/style.html)
